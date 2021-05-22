@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Animals>
+	<Animal animalName="Deer" prefab="Deer" health="30">
+		<AnimalProperty type="LandMovement" speed="0.7" attackSpeedMultiplier="1.5" />
+		<AnimalProperty type="PassiveResponse" memoryTime="45" />
+		<AnimalProperty type="AnimalDrop" itemName="MediumRawMeat" dropType="Food" minDrop="1" maxDrop="3" />
+	</Animal>
+	<Animal animalName="Seagull" prefab="Seagull" health="5">
+		<AnimalProperty type="AirMovement" speed="0.7" attackSpeedMultiplier="1.5" />
+		<AnimalProperty type="PassiveResponse" memoryTime="30" />
+		<AnimalProperty type="AnimalDrop" itemName="SmallRawMeat" dropType="Food" minDrop="1" maxDrop="2" />
+	</Animal>
+	<Animal animalName="Cardinal" prefab="Cardinal" health="5">
+		<AnimalProperty type="AirMovement" speed="0.7" attackSpeedMultiplier="1.5" />
+		<AnimalProperty type="PassiveResponse" memoryTime="30" />
+		<AnimalProperty type="AnimalDrop" itemName="SmallRawMeat" dropType="Food" minDrop="1" maxDrop="2" />
+	</Animal>
+	<Animal animalName="Chickadee" prefab="Chickadee" health="5">
+		<AnimalProperty type="AirMovement" speed="0.7" attackSpeedMultiplier="1.5" />
+		<AnimalProperty type="PassiveResponse" memoryTime="30" />
+		<AnimalProperty type="AnimalDrop" itemName="SmallRawMeat" dropType="Food" minDrop="1" maxDrop="2" />
+	</Animal>
+	<Animal animalName="Crow" prefab="Crow" health="5">
+		<AnimalProperty type="AirMovement" speed="0.7" attackSpeedMultiplier="1.5" />
+		<AnimalProperty type="PassiveResponse" memoryTime="30" />
+		<AnimalProperty type="AnimalDrop" itemName="SmallRawMeat" dropType="Food" minDrop="1" maxDrop="2" />
+	</Animal>
+	<Animal animalName="GoldFinch" prefab="GoldFinch" health="5">
+		<AnimalProperty type="AirMovement" speed="0.7" attackSpeedMultiplier="1.5" />
+		<AnimalProperty type="PassiveResponse" memoryTime="30" />
+		<AnimalProperty type="AnimalDrop" itemName="SmallRawMeat" dropType="Food" minDrop="1" maxDrop="2" />
+	</Animal>
+	<Animal animalName="Robin" prefab="Robin" health="5">
+		<AnimalProperty type="AirMovement" speed="0.7" attackSpeedMultiplier="1.5" />
+		<AnimalProperty type="PassiveResponse" memoryTime="30" />
+		<AnimalProperty type="AnimalDrop" itemName="SmallRawMeat" dropType="Food" minDrop="1" maxDrop="2" />
+	</Animal>
+	<Animal animalName="Sparrow" prefab="Sparrow" health="5">
+		<AnimalProperty type="AirMovement" speed="0.7" attackSpeedMultiplier="1.5" />
+		<AnimalProperty type="PassiveResponse" memoryTime="30" />
+		<AnimalProperty type="AnimalDrop" itemName="SmallRawMeat" dropType="Food" minDrop="1" maxDrop="2" />
+	</Animal>
+	<Animal animalName="Bear" prefab="Bear" health="60">
+		<AnimalProperty type="LandMovement" speed="0.6" attackSpeedMultiplier="1.5" />
+		<AnimalProperty type="AggressiveResponse" memoryTime="60" damage="15" />
+		<AnimalProperty type="AnimalDrop" itemName="LargeRawMeat" dropType="Food" minDrop="2" maxDrop="4" />
+	</Animal>
+</Animals>

@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Items>
+	<Item itemName="Handgun" prefab="Models/Weapons/Handgun" speedMultiplier="1" offsetX="0.1278" offsetY="-0.0212" offsetZ="0.0184" rotX="-9.456" rotY="96.464" rotZ="91.57101">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="5" ammo="32" ammoName="ammo" maxDistance="10" shootAudio="Audio/GunShoot1" reloadAudio="Audio/GunReload" triggerRate="0.75" bulletName="Extras/Bullet" />
+	</Item>
+	<Item itemName="Pistol" prefab="Models/Weapons/Pistol" speedMultiplier="1" offsetX="0.1285" offsetY="-0.0115" offsetZ="0.0265" rotX="104.935" rotY="-77.457" rotZ="-83.97699">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="5" ammo="20" ammoName="ammo" maxDistance="13" shootAudio="Audio/GunShoot3" reloadAudio="Audio/GunReload" triggerRate="0.75" bulletName="Extras/Bullet" />
+	</Item>
+	<Item itemName="Shotgun" prefab="Models/Weapons/Shotgun" speedMultiplier="0.75" offsetX="0.2936" offsetY="0.2936" offsetZ="0.0173" rotX="-9.455001" rotY="96.464" rotZ="87.147">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="20" ammo="3" ammoName="ammo" maxDistance="20" shootAudio="Audio/GunShoot2" reloadAudio="Audio/GunReload" triggerRate="1.5" bulletName="Extras/Bullet" />
+	</Item>
+	<Item itemName="Revolver" prefab="Models/Weapons/Revolver" speedMultiplier="1" offsetX="0.1679" offsetY="-0.0501" offsetZ="0.0329" rotX="23.441" rotY="80.56001" rotZ="82.82101">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="7" ammo="6" ammoName="ammo" maxDistance="20" shootAudio="Audio/GunShoot1" reloadAudio="Audio/GunReload" triggerRate="1.4" bulletName="Extras/Bullet" />
+	</Item>
+	<Item itemName="AK47" prefab="Models/Weapons/AK47" speedMultiplier="0.85" offsetX="0.2233" offsetY="-0.0586" offsetZ="0.1003" rotX="16.593" rotY="81.15701" rotZ="81.14201">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="5" ammo="32" ammoName="ammo" maxDistance="15" shootAudio="Audio/GunShoot0" reloadAudio="Audio/GunReload" triggerRate="0.6" bulletName="Extras/Bullet" />
+	</Item>
+	<Item itemName="Rifle" prefab="Models/Weapons/Rifle" speedMultiplier="0.7" offsetX="0.386" offsetY="-0.108" offsetZ="0.116" rotX="15.695" rotY="86.581" rotZ="89.07401">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="7" ammo="15" ammoName="ammo" maxDistance="30" shootAudio="Audio/GunShoot2" reloadAudio="Audio/GunReload" triggerRate="0.6" bulletName="Extras/Bullet" />
+	</Item>
+	<Item itemName="Machinegun" prefab="Models/Weapons/Machinegun" speedMultiplier="0.9" offsetX="0.1094" offsetY="-0.0206" offsetZ="0.0441" rotX="-91.589" rotY="180" rotZ="-1.525879">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="15" ammo="32" ammoName="ammo" maxDistance="20" shootAudio="Audio/GunShoot0" reloadAudio="Audio/GunReload" triggerRate="0.4" bulletName="Extras/Bullet" />
+	</Item>
+	<Item itemName="Submachinegun" prefab="Models/Weapons/Submachinegun" speedMultiplier="0.95" offsetX="0.102" offsetY="-0.0292" offsetZ="0" rotX="0" rotY="90" rotZ="90">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="7" ammo="20" ammoName="ammo" maxDistance="20" shootAudio="Audio/GunShoot0" reloadAudio="Audio/GunReload" triggerRate="0.7" bulletName="Extras/Bullet" />
+	</Item>
+	<Item itemName="Bow" prefab="Models/Weapons/Bow" speedMultiplier="0.95" offsetX="0.0838" offsetY="-0.0179" offsetZ="-0.0011" rotX="92.664" rotY="-90" rotZ="-90">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="3" ammo="10" ammoName="quiver" maxDistance="20" shootAudio="Audio/BowShoot" reloadAudio="Audio/None" triggerRate="1.75" bulletName="Extras/Arrow" />
+	</Item>
+	<Item itemName="WarriorBow" prefab="Models/Weapons/WarriorBow" speedMultiplier="1.1" offsetX="0.0838" offsetY="-0.0179" offsetZ="-0.0011" rotX="92.664" rotY="-90" rotZ="-90">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="6" ammo="12" ammoName="quiver" maxDistance="20" shootAudio="Audio/BowShoot" reloadAudio="Audio/None" triggerRate="1.4" bulletName="Extras/Arrow" />
+	</Item>
+	<Item itemName="MetalBow" prefab="Models/Weapons/MetalBow" speedMultiplier="0.9" offsetX="0.0644" offsetY="-0.0186" offsetZ="-0.0011" rotX="92.664" rotY="-90" rotZ="-90">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="7" ammo="10" ammoName="quiver" maxDistance="20" shootAudio="Audio/BowShoot" reloadAudio="Audio/None" triggerRate="1.5" bulletName="Extras/Arrow" />
+	</Item>
+	<Item itemName="RusticCrossbow" prefab="Models/Weapons/RusticCrossbow" speedMultiplier="0.95" offsetX="0.032" offsetY="-0.037" offsetZ="-0.004" rotX="16.593" rotY="351.157" rotZ="368.798">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="5" ammo="10" ammoName="quiver" maxDistance="20" shootAudio="Audio/BowShoot" reloadAudio="Audio/None" triggerRate="1.5" bulletName="Extras/Bolt" />
+	</Item>
+	<Item itemName="AdvancedCrossbow" prefab="Models/Weapons/AdvancedCrossbow" speedMultiplier="0.85" offsetX="0.202" offsetY="0.077" offsetZ="-0.017" rotX="106.391" rotY="269.733" rotZ="269.367">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="7" ammo="8" ammoName="quiver" maxDistance="20" shootAudio="Audio/BowShoot" reloadAudio="Audio/None" triggerRate="1.75" bulletName="Extras/Bolt" />
+	</Item>
+	<Item itemName="SimpleCrossbow" prefab="Models/Weapons/SimpleCrossbow" speedMultiplier="1" offsetX="0.201" offsetY="-0.008" offsetZ="0.031" rotX="16.593" rotY="261.15701" rotZ="261.142">
+		<ItemType type="Weapon" subType="GunWeapon" instantDamage="5" ammo="10" ammoName="quiver" maxDistance="20" shootAudio="Audio/BowShoot" reloadAudio="Audio/None" triggerRate="1.5" bulletName="Extras/Bolt" />
+	</Item>
+	<Item itemName="CurvedKnife" prefab="Models/Weapons/CurvedKnife" speedMultiplier="1.1" offsetX="0.069" offsetY="-0.0156" offsetZ="0.0177" rotX="-111.331" rotY="-105.578" rotZ="111.846">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="7" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="750" instantDamage="7" />
+	</Item>
+	<Item itemName="LeanKnife" prefab="Models/Weapons/LeanKnife" speedMultiplier="1.15" offsetX="0.0562" offsetY="-0.0021" offsetZ="-0.0881" rotX="-111.331" rotY="-105.578" rotZ="111.846">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="7" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="825" instantDamage="8" />
+	</Item>
+	<Item itemName="HuntingKnife" prefab="Models/Weapons/HuntingKnife" speedMultiplier="1" offsetX="0.0602" offsetY="-0.0097" offsetZ="-0.0296" rotX="-111.331" rotY="-105.578" rotZ="111.846">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="10" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="675" instantDamage="8" />
+	</Item>
+	<Item itemName="Katana" prefab="Models/Weapons/Katana" speedMultiplier="1.1" offsetX="0.064" offsetY="0.032	" offsetZ="0.097" rotX="59.593" rotY="0" rotZ="7.89">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentSwordState" instantDamage="12" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="675" instantDamage="10" />
+	</Item>
+	<Item itemName="PirateSword" prefab="Models/Weapons/PirateSword" speedMultiplier="0.9" offsetX="0.0403" offsetY="0.0135" offsetZ="0.0986" rotX="57.443" rotY="-12.923" rotZ="-8.621">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentSwordState" instantDamage="13" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="712.5" instantDamage="11" />
+	</Item>
+	<Item itemName="GoldenSword" prefab="Models/Weapons/GoldenSword" speedMultiplier="1" offsetX="0.032" offsetY="0.015" offsetZ="0.125" rotX="64.458" rotY="-24.92" rotZ="-16.199">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentSwordState" instantDamage="20" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="750" instantDamage="15" />
+	</Item>
+	<Item itemName="DarkSword" prefab="Models/Weapons/DarkSword" speedMultiplier="1.05" offsetX="0.051" offsetY="0.022" offsetZ="0.133" rotX="53.029" rotY="-47.719" rotZ="-34.936">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentSwordState" instantDamage="14" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="675" instantDamage="11" />
+	</Item>
+	<Item itemName="BroadSword" prefab="Models/Weapons/BroadSword" speedMultiplier="0.75" offsetX="0.044" offsetY="0.006" offsetZ="0.109" rotX="45.434" rotY="-55.908" rotZ="-39.319">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentSwordState" instantDamage="14" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="525" instantDamage="11" />
+	</Item>
+	<Item itemName="LongSword" prefab="Models/Weapons/LongSword" speedMultiplier="0.85" offsetX="0.057" offsetY="-0.039" offsetZ="0.057" rotX="45.189" rotY="-47.237" rotZ="-26.469">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentSwordState" instantDamage="10" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="637.5" instantDamage="8" />
+	</Item>
+	<Item itemName="AncientSpear" prefab="Models/Weapons/AncientSpear" speedMultiplier="1.05" offsetX="0.033" offsetY="0.053" offsetZ="0.192" rotX="30.103" rotY="-189.869" rotZ="-177.884">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentSwordState" instantDamage="4" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="1150" instantDamage="13" />
+	</Item>
+	<Item itemName="ShortBladeSpear" prefab="Models/Weapons/ShortBladeSpear" speedMultiplier="1" offsetX="0.055" offsetY="0.029" offsetZ="0.12" rotX="63.963" rotY="-14.682" rotZ="-9.751">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentSwordState" instantDamage="4" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="1100" instantDamage="8" />
+	</Item>
+	<Item itemName="PrimalSpear" prefab="Models/Weapons/PrimalSpear" speedMultiplier="1.05" offsetX="0.05" offsetY="0.242" offsetZ="0.424" rotX="55.279" rotY="-13.574" rotZ="-3.215">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentSwordState" instantDamage="2" />
+		<ItemType type="Weapon" subType="ThrowableWeapon" speed="950" instantDamage="6" />
+	</Item>
+	<Item itemName="Axe" prefab="Models/Weapons/Axe" speedMultiplier="0.85" offsetX="0.037" offsetY="0.011" offsetZ="0.02" rotX="46.311" rotY="69.999" rotZ="63.28">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentAxeState" instantDamage="11" />
+	</Item>
+	<Item itemName="CarpentersAxe" prefab="Models/Weapons/CarpentersAxe" speedMultiplier="0.9" offsetX="0.044" offsetY="-0.053" offsetZ="0.028" rotX="17.938" rotY="68.653" rotZ="60.02">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentAxeState" instantDamage="9" />
+	</Item>
+	<Item itemName="SalvagedAxe" prefab="Models/Weapons/SalvagedAxe" speedMultiplier="0.95" offsetX="0.0746" offsetY="-0.0188" offsetZ="0.0538" rotX="30.059" rotY="60.824" rotZ="64.749">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentAxeState" instantDamage="10" />
+	</Item>
+	<Item itemName="BattleAxe" prefab="Models/Weapons/BattleAxe" speedMultiplier="0.85" offsetX="0.02" offsetY="0.015" offsetZ="0.041" rotX="37.889" rotY="59.996" rotZ="54.769">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentAxeState" instantDamage="12" />
+	</Item>
+	<Item itemName="StoneAxe" prefab="Models/Weapons/StoneAxe" speedMultiplier="0.85" offsetX="0.053" offsetY="-0.005" offsetZ="0.049" rotX="24.421" rotY="76.12" rotZ="65.459">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentAxeState" instantDamage="11" />
+	</Item>
+	<Item itemName="Hammer" prefab="Models/Weapons/Hammer" speedMultiplier="0.85" offsetX="0.0382" offsetY="0.0802" offsetZ="0.255" rotX="66.271" rotY="0" rotZ="2.471">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentAxeState" instantDamage="6" />
+	</Item>
+	<Item itemName="Bat" prefab="Models/Weapons/Bat" speedMultiplier="0.95" offsetX="0.075" offsetY="-0.082" offsetZ="-0.022" rotX="52.233" rotY="-0.817" rotZ="5.944">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentAxeState" instantDamage="4" />
+	</Item>
+	<Item itemName="CannedTomatoSoup" prefab="Models/Food/CannedTomatoSoup" speedMultiplier="1" offsetX="0.0517" offsetY="-0.0444" offsetZ="-0.0003" rotX="0" rotY="90" rotZ="-90">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="3" />
+		<ItemType type="Food" hunger="true" replenishAmt="10" isPoisonous="false" poisonAmt="10" spoilRate="600" isSpoiled="false" timeToEat="2" />
+	</Item>
+	<Item itemName="CannedPeaSoup" prefab="Models/Food/CannedPeaSoup" speedMultiplier="1" offsetX="0.0517" offsetY="-0.0444" offsetZ="-0.0003" rotX="0" rotY="90" rotZ="-90">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="3" />
+		<ItemType type="Food" hunger="true" replenishAmt="7" isPoisonous="false" poisonAmt="7" spoilRate="900" isSpoiled="false" timeToEat="2" />
+	</Item>
+	<Item itemName="CannedMeatSoup" prefab="Models/Food/CannedMeatSoup" speedMultiplier="1" offsetX="0.0517" offsetY="-0.0444" offsetZ="-0.0003" rotX="0" rotY="90" rotZ="-90">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="3" />
+		<ItemType type="Food" hunger="true" replenishAmt="15" isPoisonous="false" poisonAmt="15" spoilRate="420" isSpoiled="false" timeToEat="2" />
+	</Item>
+	<Item itemName="Yogurt" prefab="Models/Food/Yogurt" speedMultiplier="1" offsetX="0.0608" offsetY="-0.215" offsetZ="-0.0053" rotX="0" rotY="90" rotZ="-90">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="true" replenishAmt="5" isPoisonous="false" poisonAmt="5" spoilRate="300" isSpoiled="false" timeToEat="0.75" />
+	</Item>
+	<Item itemName="Chips" prefab="Models/Food/Chips" speedMultiplier="1" offsetX="0.0688" offsetY="-0.0495" offsetZ="-0.0018" rotX="0" rotY="90" rotZ="-90">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="true" replenishAmt="3" isPoisonous="false" poisonAmt="3" spoilRate="2000" isSpoiled="false" timeToEat="0.75" />
+	</Item>
+	<Item itemName="Bread" prefab="Models/Food/Bread" speedMultiplier="1" offsetX="0.0583" offsetY="-0.0164" offsetZ="-0.0012" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="true" replenishAmt="5" isPoisonous="false" poisonAmt="5" spoilRate="600" isSpoiled="false" timeToEat="1.5" />
+	</Item>
+	<Item itemName="Banana" prefab="Models/Food/Banana" speedMultiplier="1" offsetX="0.0693" offsetY="-0.0166" offsetZ="-0.0014" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="true" replenishAmt="7" isPoisonous="false" poisonAmt="7" spoilRate="450" isSpoiled="false" timeToEat="1" />
+	</Item>
+	<Item itemName="Apple" prefab="Models/Food/Apple" speedMultiplier="1" offsetX="0.055" offsetY="-0.0176" offsetZ="0.0145" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="true" replenishAmt="7" isPoisonous="false" poisonAmt="7" spoilRate="600" isSpoiled="false" timeToEat="1.5" />
+	</Item>
+	<Item itemName="LargeRawMeat" prefab="Models/Food/LargeRawMeat" speedMultiplier="0.95" offsetX="0.0826" offsetY="-0.1038" offsetZ="0" rotX="280" rotY="-90" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="true" replenishAmt="5" isPoisonous="true" poisonAmt="7" spoilRate="400" isSpoiled="false" timeToEat="1.6" />
+	</Item>
+	<Item itemName="MediumRawMeat" prefab="Models/Food/MediumRawMeat" speedMultiplier="1" offsetX="0.0825" offsetY="-0.0803" offsetZ="0.0409" rotX="280" rotY="-90" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="true" replenishAmt="3" isPoisonous="true" poisonAmt="5" spoilRate="400" isSpoiled="false" timeToEat="1.3" />
+	</Item>
+	<Item itemName="SmallRawMeat" prefab="Models/Food/SmallRawMeat" speedMultiplier="1" offsetX="0.0799" offsetY="-0.0664" offsetZ="0.0411" rotX="280" rotY="-90" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="true" replenishAmt="2" isPoisonous="true" poisonAmt="4" spoilRate="400" isSpoiled="false" timeToEat="0.9" />
+	</Item>
+	<Item itemName="LargeWater" prefab="Models/Food/LargeWater" speedMultiplier="1" offsetX="0.0683" offsetY="-0.0181" offsetZ="-0.0663" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="false" replenishAmt="20" isPoisonous="false" poisonAmt="20" spoilRate="2000" isSpoiled="false" timeToEat="1.5" />
+	</Item>
+	<Item itemName="Water" prefab="Models/Food/Water" speedMultiplier="1" offsetX="0.0594" offsetY="-0.0161" offsetZ="-0.0014" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Food" hunger="false" replenishAmt="13" isPoisonous="false" poisonAmt="13" spoilRate="2000" isSpoiled="false" timeToEat="1" />
+	</Item>
+	<Item itemName="Soda" prefab="Models/Food/Soda" speedMultiplier="1.1" offsetX="0.0603" offsetY="-0.0161" offsetZ="-0.0212" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="2" />
+		<ItemType type="Food" hunger="false" replenishAmt="7" isPoisonous="false" poisonAmt="7" spoilRate="2000" isSpoiled="false" timeToEat="1" />
+	</Item>
+	<Item itemName="SmallPillBottle" prefab="Models/Medicine/SmallPillBottle" speedMultiplier="1" offsetX="0.0487" offsetY="-0.0179" offsetZ="-0.001" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Medicine" replenishAmt="7" woundsHealed="1" timeToEat="1" />
+	</Item>
+	<Item itemName="MediumPillBottle" prefab="Models/Medicine/MediumPillBottle" speedMultiplier="1" offsetX="0.0276" offsetY="-0.026" offsetZ="-0.0007" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Medicine" replenishAmt="12" woundsHealed="1" timeToEat="1.5" />
+	</Item>
+	<Item itemName="LargePillBottle" prefab="Models/Medicine/LargePillBottle" speedMultiplier="1" offsetX="0.0315" offsetY="-0.055" offsetZ="-0.0033" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="2" />
+		<ItemType type="Medicine" replenishAmt="15" woundsHealed="2" timeToEat="2" />
+	</Item>
+	<Item itemName="Syringe" prefab="Models/Medicine/Syringe" speedMultiplier="1" offsetX="0.0641" offsetY="-0.017" offsetZ="0.0064" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Medicine" replenishAmt="10" woundsHealed="1" timeToEat="0.5" />
+	</Item>
+	<Item itemName="Bandage" prefab="Models/Medicine/Bandage" speedMultiplier="1" offsetX="0.0631" offsetY="-0.0289" offsetZ="0.0229" rotX="90" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Medicine" replenishAmt="3" woundsHealed="3" timeToEat="1.5" />
+	</Item>
+	<Item itemName="FirstAidKit" prefab="Models/Medicine/FirstAidKit" speedMultiplier="1" offsetX="0.0653" offsetY="0.032" offsetZ="0.121" rotX="180" rotY="-90" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="4" />
+		<ItemType type="Medicine" replenishAmt="17" woundsHealed="3" timeToEat="2.5" />
+	</Item>
+	<Item itemName="Flashlight" prefab="Models/Tools/Flashlight" speedMultiplier="0.95" offsetX="0.0651" offsetY="-0.0188" offsetZ="-0.003" rotX="180" rotY="0" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="3" />
+		<ItemType type="Tool" subType="LightTool" />
+	</Item>
+	<Item itemName="Ammo" prefab="Models/Tools/Ammo" speedMultiplier="1" offsetX="0.0603" offsetY="-0.0192" offsetZ="0.0197" rotX="-20.909" rotY="84.43" rotZ="-176.959">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Tool" subType="AmmoTool" minAmmo="3" maxAmmo="50" ammoName="ammo" />
+	</Item>
+	<Item itemName="Quiver" prefab="Models/Tools/Quiver" speedMultiplier="0.95" offsetX="-0.368" offsetY="-0.146" offsetZ="0.225" rotX="52.309" rotY="36.134" rotZ="4.959">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Tool" subType="AmmoTool" minAmmo="2" maxAmmo="15" ammoName="quiver" />
+	</Item>
+	<Item itemName="Map" prefab="Models/Necessity/Map" speedMultiplier="1.05" offsetX="0.0731" offsetY="-0.0255" offsetZ="-0.0009" rotX="0" rotY="90" rotZ="0">
+		<ItemType type="Weapon" subType="CloseRangeWeapon" animationName="CurrentKnifeState" instantDamage="1" />
+		<ItemType type="Necessity" />
+	</Item>
+</Items>

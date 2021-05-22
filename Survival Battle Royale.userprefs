@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Possession\Assets\Scripts\Managers\BuildingInteriorManager.cs">
+    <Files>
+      <File FileName="..\Possession\Assets\Scripts\Managers\CityManager.cs" Line="33" Column="19" />
+      <File FileName="..\Possession\Assets\Scripts\Managers\PeopleManager.cs" Line="197" Column="3" />
+      <File FileName="..\Possession\Assets\Scripts\Managers\PlayerManager.cs" Line="230" Column="5" />
+      <File FileName="..\Possession\Assets\Scripts\Managers\ItemManager.cs" Line="50" Column="24" />
+      <File FileName="..\Possession\Assets\Scripts\Managers\BuildingInteriorManager.cs" Line="76" Column="32" />
+      <File FileName="..\Possession\Assets\Scripts\Misc\BuildingCollision.cs" Line="3" Column="49" />
+      <File FileName="..\Possession\Assets\Scripts\Managers\InputManager.cs" Line="97" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>largest</Value>
+          <Value>largestRoom</Value>
+          <Value>randIndex</Value>
+          <Value>i</Value>
+          <Value>roomTypes</Value>
+          <Value>map</Value>
+          <Value>requiredRooms</Value>
+          <Value>empty</Value>
+          <Value>roomAreas</Value>
+          <Value>i</Value>
+          <Value>roomsToAdd</Value>
+          <Value>area</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
